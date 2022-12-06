@@ -1,0 +1,45 @@
+City,Avg_Temperature,public_opinion,clothing,frequency_illness,heater_req,gas_electricity_usage
+NewYork,62,warm,t-shirt,normal,no,low
+NewYork,63.3,warm,t-shirt,normal,no,low
+NewYork,59.5,warm,t-shirt,feverish,yes,high
+NewYork,59,warm,t-shirt,normal,no,low
+NewYork,67.5,warm,t-shirt,normal,no,low
+NewYork,68.1,warm,full-sleeves,feverish,yes,low
+NewYork,69.5,warm,t-shirt,normal,no,low
+NewYork,52.5,moderate,t-shirt,normal,no,low
+NewYork,47.5,warm,full-sleeves,feverish,yes,high
+NewYork,57.3,warm,full-sleeves,feverish,yes,high
+NewYork,65,warm,t-shirt,normal,no,low
+NewYork,66.8,warm,t-shirt,normal,no,low
+NewYork,50.9,moderate,full-sleeves,feverish,yes,high
+NewYork,42,cold,jackets,normal,yes,high
+NewYork,41.7,cold,jackets,normal,yes,high
+NewYork,45,moderate,full-sleeves,feverish,no,low
+NewYork,41.5,cold,jackets,extreme cough and cold,yes,high
+NewYork,39.9,cold,jackets,extreme cough and cold,yes,high
+NewYork,36.9,cold,jackets,extreme cough and cold,yes,high
+NewYork,35.4,cold,jackets,extreme cough and cold,yes,high
+NewYork,36,cold,jackets,extreme cough and cold,yes,high
+NewYork,45.4,moderate,full-sleeves,feverish,yes,low
+NewYork,49.1,moderate,full-sleeves,feverish,yes,high
+NewYork,46.9,moderate,full-sleeves,normal,no,low
+NewYork,49.8,moderate,full-sleeves,normal,yes,high
+NewYork,50,moderate,full-sleeves,normal,no,low
+NewYork,52.3,moderate,full-sleeves,feverish,no,low
+NewYork,50.5,moderate,full-sleeves,feverish,no,low
+NewYork,40.7,cold,jackets,extreme cough and cold,yes,high
+NewYork,50.6,moderate,full-sleeves,feverish,no,low
+NewYork,42,moderate,jackets,normal,yes,high
+NewYork,45,moderate,full-sleeves,normal,yes,high
+NewYork,36.9,cold,jackets,extreme cough and cold,yes,high
+NewYork,45.4,moderate,full-sleeves,feverish,yes,high
+NewYork,49.8,moderate,full-sleeves,feverish,no,low
+NewYork,36.9,cold,jackets,extreme cough and cold,yes,high
+NewYork,36,cold,jackets,extreme cough and cold,yes,high
+NewYork,50,warm,t-shirt,normal,no,low
+NewYork,50.6,warm,t-shirt,normal,no,low
+NewYork,62,warm,t-shirt,normal,no,low
+NewYork,68.1,warm,t-shirt,normal,no,low
+NewYork,50.6,warm,t-shirt,normal,no,low
+NewYork,36.9,cold,jackets,extreme cough and cold,yes,high
+NewYork,36,cold,jackets,extreme cough and cold,yes,high
